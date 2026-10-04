@@ -1,0 +1,41 @@
+# ============================================================
+# Subscription Churn Intelligence System
+# Requirements
+# ============================================================
+
+# Core Data Analysis
+pandas==2.2.3
+numpy==1.26.4
+
+# Database / SQL
+duckdb==1.1.3
+
+# Visualization
+plotly==5.24.1
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.5.2
+
+# Model Explainability
+shap==0.46.0
+
+# Dashboard
+streamlit==1.40.1
+
+# Notebook support
+notebook==7.2.2
+ipykernel==6.29.5
+
+# Code Quality
+black==24.10.0
+ruff==0.7.1
+
+# Testing
+pytest==8.3.3
+pytest-cov==6.0.0
+
+# Utilities
+python-dotenv==1.0.1
+joblib==1.4.2
